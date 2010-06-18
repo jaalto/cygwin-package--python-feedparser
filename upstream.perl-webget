@@ -1,0 +1,2 @@
+tag1: python-feedparser
+  http://packages.debian.org/unstable/python-feedparser pregexp:orig.tar.gz file:feedparser_4.1.orig.tar.gz new: x:

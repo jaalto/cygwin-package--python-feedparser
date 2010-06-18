@@ -1,0 +1,7 @@
+sdesc: "Universal Feed Parser for Python"
+ldesc: "Python module for downloading and parsing syndicated feeds. It can
+handle RSS 0.90, Netscape RSS 0.91, Userland RSS 0.91, RSS 0.92, RSS
+0.93, RSS 0.94, RSS 1.0, RSS 2.0, Atom, and CDF feeds. Provides the
+same API to all formats, and sanitizes URIs and HTML."
+category: Libs Python
+requires: cygwin python

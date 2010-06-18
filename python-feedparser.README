@@ -1,0 +1,69 @@
+python-feedparser
+------------------------------------------
+
+Universal Feed Parser for Python
+
+Python module for downloading and parsing syndicated feeds. It can
+handle RSS 0.90, Netscape RSS 0.91, Userland RSS 0.91, RSS 0.92, RSS
+0.93, RSS 0.94, RSS 1.0, RSS 2.0, Atom, and CDF feeds. Provides the
+same API to all formats, and sanitizes URIs and HTML.
+
+Runtime requirements:
+  cygwin
+  python
+
+Build requirements:
+  cygwin
+  python
+
+Canonical homepage:
+  http://feedparser.org
+  http://code.google.com/p/feedparser
+  http://packages.debian.org/python-feedparser
+
+Canonical download:
+  See above
+
+Version control repository:
+  See Google
+
+Mailing list:
+
+Forum / Wiki:
+  See Google
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Mark Pilgrim <mark@diveintomark.org>
+  Bugs: http://code.google.com/p/feedparser/issues/list
+
+License:
+  MIT (According to Google project)
+
+Language:
+  Python
+
+------------------------------------------
+
+Build instructions:
+  unpack python-feedparser-*-src.tar.bz2
+    if you use setup to install this source package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./python-feedparser*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+
+----- version 4.1-1 -----
+- Initial release 2008-03-07 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
