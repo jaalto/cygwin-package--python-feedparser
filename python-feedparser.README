@@ -62,8 +62,11 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 4.1-2 -----
+- Python 2.6 2010-06-17 Jari Aalto
+
 ----- version 4.1-1 -----
 - Initial release 2008-03-07 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2010 Jari Aalto; Licensed under GPL v2 or later

@@ -1,6 +1,6 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: python-feedparse 4.1-1 -- Universal Feed Parser for Python
+Subject: Updated: python-feedparse 4.1-2 -- Universal Feed Parser for Python
+--text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
@@ -15,6 +15,8 @@ same API to all formats, and sanitizes URIs and HTML.
 
 CHANGES SINCE LAST RELEASE
 ==========================
+
+Built for Python 2.6
 
 See
   /usr/share/doc/feedparser-*/changes-*.html
