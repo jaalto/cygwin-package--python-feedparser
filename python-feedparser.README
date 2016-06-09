@@ -13,6 +13,7 @@ Runtime requirements:
 
 Build requirements:
   python
+  python-setuptools
 
 Canonical homepage:
   http://feedparser.org
@@ -60,6 +61,9 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 5.1.3-1 -----
+- New upstream release 2016-06-09 Jari Aalto
+
 ----- version 5.0.1-2 -----
 - Python 2.7 2013-01-26 Jari Aalto
 
@@ -73,4 +77,4 @@ Port Notes:
 - Initial release 2008-03-07 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008-2011 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2016 Jari Aalto; Licensed under GPL v2 or later
