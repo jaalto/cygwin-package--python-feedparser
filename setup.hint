@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Universal Feed Parser for Python"
 ldesc: "Python module for downloading and parsing syndicated feeds. It can
 handle RSS 0.90, Netscape RSS 0.91, Userland RSS 0.91, RSS 0.92, RSS
